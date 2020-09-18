@@ -2,7 +2,7 @@
 
 [PHPScraper](https://github.com/spekulatius/PHPScraper) is a scraping library aimed at making web-scraping easier. It simplifies the coding effort involved by reducing verbosity.
 
-This is an example of the library scraping keywords from the [Wikipedia article "Online Advertising"](https://en.wikipedia.org/wiki/Online_advertising). After the keyword extraction the data is processed to analyzed the distribution of keyword length. The expected output can be found below.
+This is an example of the library scraping keywords from the [Wikipedia article "Online Advertising"](https://en.wikipedia.org/wiki/Online_advertising). After the keyword extraction, the data is processed to analyze the distribution of keyword length. The expected output can be found below.
 
 Within PHPScraper, the library [RAKE PHP Plus](https://github.com/Donatello-za/rake-php-plus) is used. RAKE stands for "Rapid Automatic Keyword Extraction" algorithm.
 
