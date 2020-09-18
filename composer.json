@@ -1,0 +1,17 @@
+{
+    "name": "spekulatius/phpscraper-keyword-length-distribution-example",
+    "description": "A simple example of a keyword length analysis tool built using PHPScraper",
+    "type": "project",
+    "license": "GPL-3",
+    "homepage": "https://phpscraper.de",
+    "authors": [
+        {
+            "name": "Peter Thaleikis",
+            "homepage": "https://peterthaleikis.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "spekulatius/phpscraper": "^0.4.0"
+    }
+}
