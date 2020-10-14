@@ -1,4 +1,4 @@
-# Keyword Scraping Example using [PHPScraper](https://phpscraper.de)
+# Keyword Length Distribution Example using [PHPScraper](https://phpscraper.de)
 
 [PHPScraper](https://github.com/spekulatius/PHPScraper) is a scraping library aimed at making web-scraping easier. It simplifies the coding effort involved by reducing verbosity.
 
@@ -6,7 +6,7 @@ This is an example of the library scraping keywords from the [Wikipedia article 
 
 Within PHPScraper, the library [RAKE PHP Plus](https://github.com/Donatello-za/rake-php-plus) is used. RAKE stands for "Rapid Automatic Keyword Extraction" algorithm.
 
-You can also check the [PHPScraper keyword extraction example](https://github.com/spekulatius/phpscraper-keyword-scraping-example).
+You can also check the [PHPScraper keyword extraction example](https://github.com/spekulatius/phpscraper-keyword-scraping-example) and [Keyword Merge Package](https://github.com/spekulatius/keyword-merge).
 
 
 ## Installation
